@@ -36,18 +36,6 @@ A lightweight, single-file encrypted embedded key-value database written from sc
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poiko34&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&text_color=c0caf5&icon_color=7aa2f7" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=poiko34&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📡 Connect
 
 *   **GitHub:** [poiko34](https://github.com/poiko34)
