@@ -20,18 +20,25 @@ and process internals to memory management, cryptography, and native
 Windows mechanisms.
 
 ---
+## ⚙️ Tech Stack
 
-### ⚙️ Tech Stack & Tools
+**💻 Languages**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2F++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C/C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/x64dbg-DarkGreen?style=flat&logo=windows&logoColor=white" alt="x64dbg" />
-  <img src="https://img.shields.io/badge/Ghidra-2A313C?style=flat&logo=ghidra&logoColor=00FF66" alt="Ghidra" />
-  <img src="https://img.shields.io/badge/GDB-CC292B?style=flat&logo=gnu&logoColor=white" alt="GDB" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows" />
-</p>
+`C` `C++` `Python` `x86/x64 Assembly`
+
+**🖥️ Platforms**
+
+`Windows` `Linux`
+
+**🔬 Areas**
+
+`Windows Internals` `Reverse Engineering`
+`Systems Programming` `Security Research`
+
+**🛠️ Tools**
+
+`x64dbg` `WinDbg` `IDA` `Ghidra`
+`CMake` `LLVM-MinGW` `Git`
 
 ---
 
