@@ -4,11 +4,20 @@
 
 ---
 
-### 🛡️ About Me
+## 🛡️ About Me
 
-*   **Focus:** Cybersecurity, Malware Development (Maldev), Reverse Engineering, and Systems Programming.
-*   **Philosophy:** Deep dive into low-level mechanics, cryptographic primitives, and absolute operational security (OpSec).
-*   **Current Status:** Building low-level offensive tooling and custom embedded engines in C/C++.
+Low-level software and security researcher focused on:
+
+- Windows Internals & Native API
+- Reverse Engineering
+- Systems Programming
+- C / C++
+- x64 Assembly
+- Security Research & Tooling
+
+I enjoy understanding systems from the inside out — from PE structures
+and process internals to memory management, cryptography, and native
+Windows mechanisms.
 
 ---
 
